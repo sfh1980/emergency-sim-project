@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚨 Emergency Services Simulation Platform
 
 A comprehensive full-stack web application that simulates emergency services operations for Richmond, VA. This project demonstrates advanced Python development, database design, and real-time web application skills.
@@ -198,3 +199,7 @@ This project is created for educational and portfolio purposes.
 **Built with ❤️ for portfolio demonstration and learning**
 
 *Demonstrating Python, SQL Server, MongoDB, Flask, and modern web development skills*
+=======
+# PostCodingBootcampProjects
+Here is a collectoin of projects that will best showcase any and all further exploration to web/app dev
+>>>>>>> e310f199f89247d774f00e720a8852227dc88202
