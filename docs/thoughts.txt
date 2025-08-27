@@ -1,0 +1,28 @@
+crew info needs added
+    - names
+    - shift hrs
+    - what unit theyre assigned to for the shift
+
+Units : 
+    - total number
+    - total available/in use
+    - als available/in use
+    - bls available/in use
+    - name of crew members on unit during a shift
+Units in available:
+    - location
+    - time since closing/ending last incident
+
+Units in use:
+    - destination
+    - current location
+    - route to destination
+    - time to destination
+    - appx speed
+    - time at destination once set to onscene
+    - are they transporting a patient
+    - where are they transporting patient to
+field provider comments
+    - comment itself
+    - timestamp of comment
+    - full report after incident
