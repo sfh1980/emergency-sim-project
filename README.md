@@ -1,4 +1,4 @@
-# 🚨 Emergency Services Simulation Platform
+git add# 🚨 Emergency Services Simulation Platform
 
 A comprehensive full-stack web application that simulates emergency services operations for Richmond, VA. This project demonstrates advanced Python development, database design, real-time web application skills, and comprehensive testing practices.
 
